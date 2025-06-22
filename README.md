@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me  
 
-- 🎓 **Currently an Intern at FNP Gurugram**  
+- 🎓 **was an Intern at FNP Gurugram and now gratuated**  
 - 🌱 Learning **Spring Boot, Microservices, and Angular**  
 - 🎯 Focusing on **backend development** and **database management**  
 - ⚡ Fun fact: **I can debug my own code... sometimes.**  
